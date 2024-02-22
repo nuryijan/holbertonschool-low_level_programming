@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc $CIFILE -o cisfun
+gcc -o 3-name main.c
